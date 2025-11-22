@@ -57,7 +57,7 @@ Enter the realm through ⁠ɪᴘ-ᴘᴏʀᴛ🗝️ THROUGH JUST TYPING IP
 
 🌑 Prepare yourself… The shadows are watching. 🌑`
     )
-    .setImage("https://cdn.discordapp.com/attachments/1305377381464277005/1436019007642800300/standard.gif")
+    .setImage(")
     .setThumbnail(member.user.displayAvatarURL({ dynamic: true }))
     .setColor("#00ffcc");
 
